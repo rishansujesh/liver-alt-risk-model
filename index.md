@@ -19,7 +19,7 @@ We use the 2017–March 2020 Pre-Pandemic NHANES cycle, merging:
 Roughly ~8,000–10,000 participants, ~50-100 features after merging and cleaning.  
 
 ### ✅ Dataset Link  
-[CDC NHANES Continuous Datasets](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx) :contentReference[oaicite:0]{index=0}  
+[CDC NHANES Continuous Datasets](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx)   
 https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_DEMO.htm
 https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_BIOPRO.htm
 https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_ALQ.htm
