@@ -55,7 +55,6 @@ We may also include:
 - XGBoost: `xgboost.XGBClassifier()` (strong performance on tabular)  
 - (Stretch) Neural Network: `sklearn.neural_network.MLPClassifier()`  
 
-For CS 7641, we may also experiment with unsupervised methods (e.g. clustering or embedding) for exploratory analysis.
 
 ---
 
@@ -90,7 +89,7 @@ We will evaluate using:
 ---
 
 ## 6. Gantt Chart  
-
+https://docs.google.com/spreadsheets/d/1DGG8UT4Gw_CVyhd8yabUYZYYpycG1OVeVBzA1P4FZMg/edit?usp=sharing
 
 ## 7. Contribution Table
 
@@ -100,4 +99,4 @@ We will evaluate using:
 | Avaneesh  | Preprocessing, feature engineering, fairness analyses    |
 | Ashfiq    | Random Forest and XGBoost implementation and tuning      |
 | Sai       | Neural net stretch goal, hyperparameter tuning, comparisons |
-| Rishi     | Slides, GitHub Pages setup, video recording & editing    |
+|           | Slides, GitHub Pages setup, video recording & editing    |
