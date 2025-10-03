@@ -20,6 +20,9 @@ Roughly ~8,000–10,000 participants, ~50-100 features after merging and cleanin
 
 ### ✅ Dataset Link  
 [CDC NHANES Continuous Datasets](https://wwwn.cdc.gov/nchs/nhanes/continuousnhanes/default.aspx) :contentReference[oaicite:0]{index=0}  
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_DEMO.htm
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_BIOPRO.htm
+https://wwwn.cdc.gov/Nchs/Data/Nhanes/Public/2017/DataFiles/P_ALQ.htm
 
 ---
 
@@ -87,10 +90,7 @@ We will evaluate using:
 ---
 
 ## 6. Gantt Chart  
-*(Insert your Gantt chart image file `gantt.png` in the repo)*  
-![Gantt Chart](gantt.png)  
 
----
 
 ## 7. Contribution Table
 
