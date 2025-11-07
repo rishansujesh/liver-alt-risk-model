@@ -118,7 +118,7 @@ to find the cutoff probability that maximizes F1.
 
 #### Confusion Matrix (Default Threshold)
 
-![Confusion Matrix](../images/confusion_matrix.png)
+![Confusion Matrix](images/confusion_matrix.png)
 
 | True ALT     | Predicted Normal | Predicted Elevated |
 | ------------ | ---------------- | ------------------ |
@@ -130,13 +130,13 @@ The model identifies most elevated cases correctly but produces some false posit
 
 #### ROC Curve
 
-![ROC Curve](../images/roc_curve.png)
+![ROC Curve](images/roc_curve.png)
 The ROC curve lies well above the diagonal (random guess line).
 AUC = 0.963, confirming excellent ranking ability.
 
 #### Confusion Matrix (Tuned Threshold = 0.787)
 
-![Confusion Matrix – Tuned](../images/confusion_matrix_tuned.png)
+![Confusion Matrix – Tuned](images/confusion_matrix_tuned.png)
 
 | True ALT     | Predicted Normal | Predicted Elevated |
 | ------------ | ---------------- | ------------------ |
