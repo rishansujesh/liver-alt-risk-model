@@ -202,4 +202,5 @@ For the final report, we plan to:
 
 ---
 
-**Gantt Chart:** included separately.
+**Gantt Chart:** https://docs.google.com/spreadsheets/d/1DGG8UT4Gw_CVyhd8yabUYZYYpycG1OVeVBzA1P4FZMg/edit?usp=sharing
+
