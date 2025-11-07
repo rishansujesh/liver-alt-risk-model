@@ -1,0 +1,11 @@
+{
+  "ablation": "alcohol",
+  "model": "logreg",
+  "accuracy": 0.7384272169548243,
+  "f1": 0.1728395061728395,
+  "auroc": 0.5826354679802955,
+  "n_train": 7172,
+  "n_test": 1793,
+  "pos_rate_train": 0.0780814277746793,
+  "pos_rate_test": 0.0780814277746793
+}
