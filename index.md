@@ -1,5 +1,3 @@
-[View Midterm Report](midterm.md)
-
 # Predicting Elevated Liver Enzyme Levels from Alcohol Consumption and Lifestyle Factors in NHANES
 
 ---
