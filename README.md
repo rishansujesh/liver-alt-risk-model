@@ -1,5 +1,6 @@
 # README.md
 
+# Detailed Report: <a href="finalreport.md" target="_blank">Final Report</a>
 ---
 
 `/src/`: Source modules for feature grouping, preprocessing, model builders, and evaluation helpers used by the training scripts.  
