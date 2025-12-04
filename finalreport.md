@@ -311,18 +311,4 @@ This extension could deepen clinical utility and broaden the ML scope beyond cla
 
 ---
 
-## Contribution Table (Final)
-
-| Name | Final Contributions |
-|------|---------------------|
-| Rishan | Model implementation, preprocessing code, tuned thresholds, XGBoost + RF analysis, visualizations, and full final write-up. |
-| Sai | Assisted with dataset structure, validation of splits, tuning logic, and interpretation. |
-| Ashfiq | Computed evaluation metrics, confusion matrix evaluation, helped interpret ROC and PR curves. |
-| Rishi | GitHub Pages formatting, polishing final report layout and presentation preparation. |
-| Avaneesh | Supported preprocessing improvements, missing-value validation, and feature checks. |
-
----
-
-**Gantt Chart:**  
-https://docs.google.com/spreadsheets/d/1DGG8UT4Gw_CVyhd8yabUYZYYpycG1OVeVBzA1P4FZMg/edit?usp=sharing
 
